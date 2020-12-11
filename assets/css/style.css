@@ -3,6 +3,7 @@
 
 .card-body {
     transform: translateY(101%);
+    transition: transform 0.3s ease-in;
 }
 
 .card:hover .card-body {
